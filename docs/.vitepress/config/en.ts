@@ -64,6 +64,10 @@ function sidebarGeneral(): DefaultTheme.SidebarItem[] {
         //   link: "/general/setup-guide",
         // },
         {
+          text: "How RetroAchievements Works",
+          link: "/general/how-ra-works",
+        },
+        {
           text: "Emulator Support and Issues",
           link: "/general/emulator-support-and-issues",
         },

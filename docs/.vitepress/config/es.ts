@@ -78,6 +78,10 @@ function sidebarGeneral(): DefaultTheme.SidebarItem[] {
         //   text: "Guía de Configuración",
         //   link: "/es/general/setup-guide",
         // },
+        // {
+        //   text: "How RetroAchievements Works",
+        //   link: "/general/how-ra-works",
+        // },
         {
           text: "Soporte y problemas de los emuladores",
           link: "/es/general/emulator-support-and-issues",
